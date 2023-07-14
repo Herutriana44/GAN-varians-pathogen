@@ -1,0 +1,13 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Infectious bronchitis virus		strain: Beaudette	11120	ViralProj15303	GCA_000862965.1	GenBank		Complete Genome	27608	27608	1993-06-12			
+Beluga whale coronavirus SW1		isolate: SW1	694015	ViralProj29509	GCA_000872845.1	GenBank		Complete Genome	31686	31686	2008-04-08			
+Turkey coronavirus		isolate: MG10	11152	ViralProj30039	GCA_000880055.1	GenBank	INSDC Submitter	Complete Genome	27657	27657	2008-05-29	11		
+Duck coronavirus			300188	ASM1227156v1	GCA_012271565.1	GenBank	INSDC Submitter	Complete Genome	27754	27754	2015-05-09	12		
+Infectious bronchitis virus			11120	ASM1227157v1	GCA_012271575.1	GenBank	INSDC Submitter	Complete Genome	27464	27464	2015-08-16	6		
+Canada goose coronavirus			2569586	ASM1227174v1	GCA_012271745.1	GenBank		Complete Genome	28539	28539	2019-04-21			
+Infectious bronchitis virus		strain: Beaudette	11120	ViralProj15303	GCF_000862965.1	RefSeq	NCBI RefSeq	Complete Genome	27608	27608	1993-06-12	6		
+Beluga whale coronavirus SW1		isolate: SW1	694015	ViralProj29509	GCF_000872845.1	RefSeq	NCBI RefSeq	Complete Genome	31686	31686	2008-05-01	14		
+Turkey coronavirus		isolate: MG10	11152	ViralProj30039	GCF_000880055.1	RefSeq	NCBI RefSeq	Complete Genome	27657	27657	2008-06-03	11		
+Duck coronavirus			300188	ASM1227156v1	GCF_012271565.1	RefSeq	NCBI RefSeq	Complete Genome	27754	27754	2020-05-15	12		
+Infectious bronchitis virus			11120	ASM1227157v1	GCF_012271575.1	RefSeq	NCBI RefSeq	Complete Genome	27464	27464	2020-05-15	6		
+Canada goose coronavirus			2569586	ASM1227174v1	GCF_012271745.1	RefSeq	NCBI RefSeq	Complete Genome	28539	28539	2020-04-12	16		

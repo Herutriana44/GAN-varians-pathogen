@@ -1,0 +1,135 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Human coronavirus HKU1		isolate: HKU1	290028	ViralProj15139	GCA_000858765.1	GenBank	INSDC Submitter	Complete Genome	29926	29926	2004-12-21	8		
+Murine hepatitis virus		strain: MHV-A59	11138	ViralProj15350	GCA_000862345.1	GenBank		Complete Genome	31357	31357	1997-11-22			
+Bovine coronavirus		isolate: BCoV-ENT	11128	ViralProj15385	GCA_000862505.1	GenBank	INSDC Submitter	Complete Genome	31028	31028	2001-08-02	6		
+SARS coronavirus Tor2		isolate: Tor2	227984	ViralProj15500	GCA_000864885.1	GenBank		Complete Genome	29751	29751	2003-04-14			
+Rousettus bat coronavirus HKU9		strain: BF_005I	694006	ViralProj18867	GCA_000868045.1	GenBank	INSDC Submitter	Complete Genome	29114	29114	2007-02-07	8		
+Tylonycteris bat coronavirus HKU4		strain: B04f	694007	ViralProj18863	GCA_000870505.1	GenBank	INSDC Submitter	Complete Genome	30286	30286	2007-02-07	9		
+Pipistrellus bat coronavirus HKU5		strain: LMH03f	694008	ViralProj18865	GCA_000873025.1	GenBank	INSDC Submitter	Complete Genome	30482	30482	2007-02-07	9		
+Rat coronavirus Parker		strain: Parker	502102	ViralProj39313	GCA_000886515.1	GenBank		Complete Genome	31250	31250	2009-07-11			
+Bat coronavirus BM48-31/BGR/2008		strain: BtCoV/BM48-31/BGR/2008	864596	ViralProj51751	GCA_000887595.1	GenBank	INSDC Submitter	Complete Genome	29276	29276	2010-08-25	9		
+Rabbit coronavirus HKU14		strain: HKU14-1	1160968	ViralProj157249	GCA_000896935.1	GenBank	INSDC Submitter	Complete Genome	31100	31100	2012-03-26	10		
+Human betacoronavirus 2c EMC/2012		strain: HCoV-EMC	1235996	ViralProj183710	GCA_000901155.1	GenBank	INSDC Submitter	Complete Genome	30119	30119	2012-09-27	10		
+Betacoronavirus Erinaceus/VMC/DEU/2012		isolate: ErinaceusCoV/2012-216/GER/2012	1385427	ViralProj226084	GCA_000912235.1	GenBank		Complete Genome	30175	30175	2013-10-21			
+Bat Hp-betacoronavirus/Zhejiang2013		isolate: Zhejiang2013	1541205	ViralProj263036	GCA_000926915.1	GenBank		Complete Genome	31491	31491	2014-10-01			
+Betacoronavirus HKU24		strain: HKU24-R05005I	1590370	ViralProj271776	GCA_000930095.1	GenBank		Complete Genome	31249	31249	2015-01-04			
+Rousettus bat coronavirus		isolate: GCCDC1 356	1892416	ViralProj342647	GCA_001725835.1	GenBank	INSDC Submitter	Complete Genome	30161	30161	2016-09-03	10		
+Betacoronavirus Erinaceus/VMC/DEU/2012		isolate: ErinaceusCoV/2012-174/GER/2012	1385427	ASM281617v1	GCA_002816175.1	GenBank	INSDC Submitter	Complete Genome	30148	30148	2013-10-21	12		
+Betacoronavirus England 1		isolate: H123990006, strain: England 1	1263720	ASM281619v1	GCA_002816195.1	GenBank	INSDC Submitter	Complete Genome	30111	30111	2012-12-05	9		
+Murine hepatitis virus		strain: MHV-JHM	11138	ASM292247v1	GCA_002922475.1	GenBank	INSDC Submitter	Contig	1767	13351	1993-04-29	1		
+Murine hepatitis virus			11138	ASM397178v1	GCA_003971785.1	GenBank		Complete Genome	31335	31335	2004-08-31			
+Human coronavirus OC43			31631	ASM397232v1	GCA_003972325.1	GenBank	INSDC Submitter	Complete Genome	30741	30741	2004-08-04	3		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM985889v3	GCA_009858895.3	GenBank	INSDC Submitter	Complete Genome	29903	29903	2020-01-12	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM993788v1	GCA_009937885.1	GenBank	INSDC Submitter	Complete Genome	29838	29838	2020-01-24	9		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM993789v1	GCA_009937895.1	GenBank	INSDC Submitter	Complete Genome	29891	29891	2020-01-24	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM993790v1	GCA_009937905.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-01-24	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM993791v1	GCA_009937915.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-01-25	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM993792v1	GCA_009937925.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-01-28	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM993793v1	GCA_009937935.1	GenBank	INSDC Submitter	Complete Genome	29883	29883	2020-01-28	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM993794v1	GCA_009937945.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-01-28	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM993805v1	GCA_009938055.1	GenBank	INSDC Submitter	Complete Genome	29881	29881	2020-01-28	5		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM993806v1	GCA_009938065.1	GenBank	INSDC Submitter	Complete Genome	29881	29881	2020-01-28	5		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM994842v1	GCA_009948425.1	GenBank	INSDC Submitter	Complete Genome	29825	29825	2020-01-29	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM994846v1	GCA_009948465.1	GenBank	INSDC Submitter	Complete Genome	29891	29891	2020-01-29	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM994849v1	GCA_009948495.1	GenBank	INSDC Submitter	Complete Genome	29852	29852	2020-01-29	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM994852v1	GCA_009948525.1	GenBank	INSDC Submitter	Complete Genome	29854	29854	2020-01-29	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM994855v1	GCA_009948555.1	GenBank	INSDC Submitter	Complete Genome	29857	29857	2020-01-29	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	Australia/VIC01/2020	GCA_011536935.1	GenBank	INSDC Submitter	Complete Genome	29893	29893	2020-01-31	11	PRJNA613958	SAMN15366226
+Severe acute respiratory syndrome coronavirus 2			2697049	IPBCAMS-WH-05	GCA_011536975.1	GenBank	INSDC Submitter	Complete Genome	29883	29883	2020-02-05	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	BetaCoV/Wuhan/IPBCAMS-WH-02/2019	GCA_011537005.1	GenBank	INSDC Submitter	Complete Genome	29899	29899	2020-02-05	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	BetaCoV/Wuhan/IPBCAMS-WH-02/2019	GCA_011537015.1	GenBank	INSDC Submitter	Complete Genome	29890	29890	2020-02-05	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	BetaCoV/Wuhan/IPBCAMS-WH-02/2019	GCA_011537065.1	GenBank	INSDC Submitter	Complete Genome	29889	29889	2020-02-05	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153707v1	GCA_011537075.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-02-05	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153708v1	GCA_011537085.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-02-05	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	BetaCoV/Wuhan/IPBCAMS-WH-01/2019	GCA_011537135.1	GenBank	INSDC Submitter	Complete Genome	29899	29899	2020-02-05	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153714v1	GCA_011537145.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-02-07	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153715v1	GCA_011537155.1	GenBank	INSDC Submitter	Complete Genome	29879	29879	2020-02-11	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	BetaCoV/Hangzhou/HZ-1/2020	GCA_011537225.1	GenBank	INSDC Submitter	Complete Genome	29833	29833	2020-02-11	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	BetaCoV/Korea/SNU01/2020	GCA_011537235.1	GenBank	INSDC Submitter	Complete Genome	29903	29903	2020-02-11	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153726v1	GCA_011537265.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-02-11	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153729v1	GCA_011537295.1	GenBank	INSDC Submitter	Complete Genome	29903	29903	2020-02-12	12		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153732v1	GCA_011537325.1	GenBank	INSDC Submitter	Complete Genome	29858	29858	2020-02-12	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153735v1	GCA_011537355.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-02-12	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153736v1	GCA_011537365.1	GenBank	INSDC Submitter	Complete Genome	29870	29870	2020-02-14	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153739v1	GCA_011537395.1	GenBank	INSDC Submitter	Complete Genome	29870	29870	2020-02-14	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153742v1	GCA_011537425.1	GenBank	INSDC Submitter	Complete Genome	29811	29811	2020-02-18	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	SARS-CoV-2-Iso_01-Human-2020-02-07-Swe	GCA_011537455.1	GenBank	INSDC Submitter	Complete Genome	29886	29886	2020-02-21	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153746v1	GCA_011537465.1	GenBank	INSDC Submitter	Complete Genome	29860	29860	2020-02-21	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153747v1	GCA_011537475.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-02-24	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153750v1	GCA_011537505.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-02-24	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153751v1	GCA_011537515.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-02-24	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153752v1	GCA_011537525.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-02-27	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153755v1	GCA_011537555.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-02-28	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153756v1	GCA_011537565.1	GenBank	INSDC Submitter	Complete Genome	29891	29891	2020-02-28	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153761v1	GCA_011537615.1	GenBank	INSDC Submitter	Complete Genome	29923	29923	2020-02-28	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153762v1	GCA_011537625.1	GenBank	INSDC Submitter	Complete Genome	29876	29876	2020-03-02	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153769v1	GCA_011537695.1	GenBank		Complete Genome	29903	29903	2020-03-04			
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153770v1	GCA_011537705.1	GenBank		Complete Genome	29903	29903	2020-03-04			
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153771v1	GCA_011537715.1	GenBank	INSDC Submitter	Complete Genome	29878	29878	2020-03-05	10	PRJNA746979	SAMN20572657
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153778v1	GCA_011537785.1	GenBank	INSDC Submitter	Complete Genome	29854	29854	2020-03-06	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153781v1	GCA_011537815.1	GenBank	INSDC Submitter	Complete Genome	29851	29851	2020-03-06	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153782v2	GCA_011537825.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153783v2	GCA_011537835.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153786v2	GCA_011537865.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153789v2	GCA_011537895.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153794v2	GCA_011537945.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153797v2	GCA_011537975.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153798v2	GCA_011537985.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153801v2	GCA_011538015.2	GenBank	INSDC Submitter	Complete Genome	29867	29867	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153802v2	GCA_011538025.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153805v2	GCA_011538055.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1153810v2	GCA_011538105.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154497v2	GCA_011544975.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154502v2	GCA_011545025.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	nCoV-SH01	GCA_011545035.1	GenBank		Complete Genome	29945	29945	2020-03-09			
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154506v2	GCA_011545065.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154507v2	GCA_011545075.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154508v2	GCA_011545085.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154509v2	GCA_011545095.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154512v2	GCA_011545125.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154513v1	GCA_011545135.1	GenBank	INSDC Submitter	Complete Genome	29867	29867	2020-03-09	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154516v1	GCA_011545165.1	GenBank		Complete Genome	29903	29903	2020-03-10			
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154523v1	GCA_011545235.1	GenBank		Complete Genome	29897	29897	2020-03-10			
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154524v1	GCA_011545245.1	GenBank		Complete Genome	29903	29903	2020-03-10			
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154527v1	GCA_011545275.1	GenBank		Complete Genome	29903	29903	2020-03-10			
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154528v2	GCA_011545285.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-12	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154529v1	GCA_011545295.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-12	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154532v2	GCA_011545325.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-12	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154533v2	GCA_011545335.2	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-12	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154534v1	GCA_011545345.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-12	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154535v1	GCA_011545355.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-12	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154542v1	GCA_011545425.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-03-12	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154545v1	GCA_011545455.1	GenBank	INSDC Submitter	Complete Genome	29845	29845	2020-03-13	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154548v1	GCA_011545485.1	GenBank	INSDC Submitter	Complete Genome	29783	29783	2020-03-13	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154549v1	GCA_011545495.1	GenBank	INSDC Submitter	Complete Genome	29835	29835	2020-03-13	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154550v1	GCA_011545505.1	GenBank	INSDC Submitter	Complete Genome	29862	29862	2020-03-16	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	Sars CoV2/human/Ho Chi Minh city/nCoV-19-01S/2020	GCA_011545535.1	GenBank	INSDC Submitter	Complete Genome	29891	29891	2020-03-16	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1154554v1	GCA_011545545.1	GenBank	INSDC Submitter	Complete Genome	29829	29829	2020-03-16	11	PRJNA612578	
+Severe acute respiratory syndrome coronavirus 2			2697049	Sars CoV2/human/Ho Chi Minh city/nCoV-19-02S/2020	GCA_011545555.1	GenBank	INSDC Submitter	Complete Genome	29890	29890	2020-03-16	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1174199v1	GCA_011741995.1	GenBank		Complete Genome	29903	29903	2020-03-04			
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1174200v2	GCA_011742005.2	GenBank	INSDC Submitter	Complete Genome	29871	29871	2020-02-28	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1174201v1	GCA_011742015.1	GenBank		Complete Genome	29903	29903	2020-03-04			
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1174202v1	GCA_011742025.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-02-07	10		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM1174203v1	GCA_011742035.1	GenBank	INSDC Submitter	Complete Genome	29882	29882	2020-02-07	10		
+SARS coronavirus PC4-227			293936	ASM1308858v1	GCA_013088585.1	GenBank		Complete Genome	29728	29728	2005-01-28			
+Severe acute respiratory syndrome-related coronavirus			694009	ASM1308859v1	GCA_013088595.1	GenBank	INSDC Submitter	Complete Genome	29274	29274	2018-12-31	10		
+Human coronavirus HKU1		isolate: HKU1	290028	ViralProj15139	GCF_000858765.1	RefSeq	NCBI RefSeq	Complete Genome	29926	29926	2004-12-28	8		
+Murine hepatitis virus		strain: MHV-A59	11138	ViralProj15350	GCF_000862345.1	RefSeq	NCBI RefSeq	Complete Genome	31357	31357	1997-11-22	6		
+Bovine coronavirus		isolate: BCoV-ENT	11128	ViralProj15385	GCF_000862505.1	RefSeq	NCBI RefSeq	Complete Genome	31028	31028	2001-08-02	10		
+SARS coronavirus Tor2		isolate: Tor2	227984	ViralProj15500	GCF_000864885.1	RefSeq	NCBI RefSeq	Complete Genome	29751	29751	2003-04-14	13		
+Rousettus bat coronavirus HKU9		strain: BF_005I	694006	ViralProj18867	GCF_000868045.1	RefSeq	NCBI RefSeq	Complete Genome	29114	29114	2007-02-21	8		
+Tylonycteris bat coronavirus HKU4		strain: B04f	694007	ViralProj18863	GCF_000870505.1	RefSeq	NCBI RefSeq	Complete Genome	30286	30286	2007-02-21	10		
+Pipistrellus bat coronavirus HKU5		strain: LMH03f	694008	ViralProj18865	GCF_000873025.1	RefSeq	NCBI RefSeq	Complete Genome	30482	30482	2007-02-21	10		
+Rat coronavirus Parker		strain: Parker	502102	ViralProj39313	GCF_000886515.1	RefSeq	NCBI RefSeq	Complete Genome	31250	31250	2009-07-13	10		
+Bat coronavirus BM48-31/BGR/2008		strain: BtCoV/BM48-31/BGR/2008	864596	ViralProj51751	GCF_000887595.1	RefSeq	NCBI RefSeq	Complete Genome	29276	29276	2010-08-27	9		
+Rabbit coronavirus HKU14		strain: HKU14-1	1160968	ViralProj157249	GCF_000896935.1	RefSeq	NCBI RefSeq	Complete Genome	31100	31100	2012-07-10	11		
+Middle East respiratory syndrome-related coronavirus		strain: HCoV-EMC	1335626	ViralProj183710	GCF_000901155.1	RefSeq	NCBI RefSeq	Complete Genome	30119	30119	2012-12-13	10		
+Betacoronavirus Erinaceus/VMC/DEU/2012		isolate: ErinaceusCoV/2012-216/GER/2012	1385427	ViralProj226084	GCF_000912235.1	RefSeq	NCBI RefSeq	Complete Genome	30175	30175	2013-11-01	12		
+Bat Hp-betacoronavirus/Zhejiang2013		isolate: Zhejiang2013	1541205	ViralProj263036	GCF_000926915.1	RefSeq	NCBI RefSeq	Complete Genome	31491	31491	2014-10-03	9		
+Betacoronavirus HKU24		strain: HKU24-R05005I	1590370	ViralProj271776	GCF_000930095.1	RefSeq	NCBI RefSeq	Complete Genome	31249	31249	2015-01-07	10		
+Rousettus bat coronavirus		isolate: GCCDC1 356	1892416	ViralProj342647	GCF_001725835.1	RefSeq	NCBI RefSeq	Complete Genome	30161	30161	2016-09-12	10		
+Betacoronavirus Erinaceus/VMC/DEU/2012		isolate: ErinaceusCoV/2012-174/GER/2012	1385427	ASM281617v1	GCF_002816175.1	RefSeq	NCBI RefSeq	Complete Genome	30148	30148	2018-08-24	12		
+Betacoronavirus England 1		isolate: H123990006, strain: England 1	1263720	ASM281619v1	GCF_002816195.1	RefSeq	NCBI RefSeq	Complete Genome	30111	30111	2018-08-24	10		
+Murine hepatitis virus			11138	ASM397178v1	GCF_003971785.1	RefSeq	NCBI RefSeq	Complete Genome	31335	31335	2020-05-15	11		
+Human coronavirus OC43			31631	ASM397232v1	GCF_003972325.1	RefSeq	NCBI RefSeq	Complete Genome	30741	30741	2019-02-21	8		
+Severe acute respiratory syndrome coronavirus 2			2697049	ASM985889v3	GCF_009858895.2	RefSeq	NCBI RefSeq	Complete Genome	29903	29903	2020-01-13	11		

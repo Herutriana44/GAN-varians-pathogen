@@ -1,0 +1,23 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Sparrow coronavirus HKU17		strain: HKU17-6124	1159906	ViralProj17048	GCA_000868165.1	GenBank	INSDC Submitter	Complete Genome	26083	26083	2012-03-19	8		
+Munia coronavirus HKU13-3514			572289	ViralProj32703	GCA_000880835.1	GenBank	INSDC Submitter	Complete Genome	26552	26552	2008-11-07	9		
+Thrush coronavirus HKU12-600			572290	ViralProj32701	GCA_000883335.1	GenBank	INSDC Submitter	Complete Genome	26396	26396	2008-11-07	9		
+Magpie-robin coronavirus HKU18		strain: HKU18-chu3	1159903	ViralProj109275	GCA_000894435.1	GenBank	INSDC Submitter	Complete Genome	26689	26689	2012-03-19	9		
+Porcine coronavirus HKU15		strain: HKU15-44	1159905	ViralProj109271	GCA_000895395.2	GenBank	INSDC Submitter	Complete Genome	25430	25430	2012-03-19	7		
+Wigeon coronavirus HKU20		strain: HKU20-9243	1159908	ViralProj109279	GCA_000895415.1	GenBank	INSDC Submitter	Complete Genome	26227	26227	2012-03-19	10		
+Night heron coronavirus HKU19		strain: HKU19-6918	1159904	ViralProj109277	GCA_000896035.1	GenBank	INSDC Submitter	Complete Genome	26077	26077	2012-03-19	8		
+White-eye coronavirus HKU16		strain: HKU16-6847	1159907	ViralProj109273	GCA_000896875.1	GenBank	INSDC Submitter	Complete Genome	26041	26041	2012-03-19	8		
+Common moorhen coronavirus HKU21		strain: HKU21-8295	1159902	ViralProj109281	GCA_000896895.1	GenBank	INSDC Submitter	Complete Genome	26223	26223	2012-03-19	9		
+Bulbul coronavirus HKU11-934			572288	ASM281621v1	GCA_002816215.1	GenBank	INSDC Submitter	Complete Genome	26487	26487	2008-11-07	9		
+Porcine coronavirus HKU15		strain: HKU15-155	1159905	ASM281623v1	GCA_002816235.1	GenBank	INSDC Submitter	Complete Genome	25425	25425	2012-03-19	7		
+Sparrow coronavirus HKU17		strain: HKU17-6124	1159906	ViralProj17048	GCF_000868165.1	RefSeq	NCBI RefSeq	Complete Genome	26083	26083	2012-03-30	9		
+Munia coronavirus HKU13-3514			572289	ViralProj32703	GCF_000880835.1	RefSeq	NCBI RefSeq	Complete Genome	26552	26552	2008-11-13	9		
+Thrush coronavirus HKU12-600			572290	ViralProj32701	GCF_000883335.1	RefSeq	NCBI RefSeq	Complete Genome	26396	26396	2008-11-13	9		
+Magpie-robin coronavirus HKU18		strain: HKU18-chu3	1159903	ViralProj109275	GCF_000894435.1	RefSeq	NCBI RefSeq	Complete Genome	26689	26689	2012-03-30	9		
+Porcine coronavirus HKU15		strain: HKU15-44	1159905	ViralProj109271	GCF_000895395.2	RefSeq	NCBI RefSeq	Complete Genome	25430	25430	2012-03-30	7		
+Wigeon coronavirus HKU20		strain: HKU20-9243	1159908	ViralProj109279	GCF_000895415.1	RefSeq	NCBI RefSeq	Complete Genome	26227	26227	2012-03-30	10		
+Night heron coronavirus HKU19		strain: HKU19-6918	1159904	ViralProj109277	GCF_000896035.1	RefSeq	NCBI RefSeq	Complete Genome	26077	26077	2012-03-30	8		
+White-eye coronavirus HKU16		strain: HKU16-6847	1159907	ViralProj109273	GCF_000896875.1	RefSeq	NCBI RefSeq	Complete Genome	26041	26041	2012-03-30	8		
+Common moorhen coronavirus HKU21		strain: HKU21-8295	1159902	ViralProj109281	GCF_000896895.1	RefSeq	NCBI RefSeq	Complete Genome	26223	26223	2012-03-30	9		
+Bulbul coronavirus HKU11-934			572288	ASM281621v1	GCF_002816215.1	RefSeq	NCBI RefSeq	Complete Genome	26487	26487	2018-08-24	9		
+Porcine coronavirus HKU15		strain: HKU15-155	1159905	ASM281623v1	GCF_002816235.1	RefSeq	NCBI RefSeq	Complete Genome	25425	25425	2018-08-24	7		
